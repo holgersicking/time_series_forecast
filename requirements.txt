@@ -3,3 +3,4 @@ pandas==2.2.3
 neuralprophet==0.4.2
 matplotlib==3.8.0
 xlsxwriter==3.1.6
+holidays==0.30
